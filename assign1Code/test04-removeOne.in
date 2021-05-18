@@ -1,0 +1,21 @@
+create m
+add m f
+add m j
+add m h
+add m g
+add m c
+add m c
+add m a
+add m d
+add m w
+add m y
+add m z
+print m
+removeOne m z
+print m
+removeOne m c
+print m
+removeOne m j
+print m
+removeOne m f
+print m

@@ -1,0 +1,20 @@
+create m
+add m f
+add m a
+add m y
+add m y
+add m j
+add m h
+add m h
+add m g
+add m c
+create m2
+add m2 a
+add m2 d
+add m2 w
+add m2 y
+add m2 y
+add m2 y
+add m2 z
+print m
+print m2

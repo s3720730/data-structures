@@ -1,0 +1,10 @@
+create m
+add m a
+add m g
+add m c
+add m p
+add m z
+contains m a
+contains m g
+contains m z
+contains m d

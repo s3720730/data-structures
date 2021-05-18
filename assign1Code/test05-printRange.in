@@ -1,0 +1,17 @@
+create m
+add m f
+add m j
+add m h
+add m g
+add m c
+add m a
+add m d
+add m w
+add m y
+add m z
+printRange m a z
+printRange m a g
+printRange m a e
+printRange m g z
+printRange m h z
+printRange m p z
